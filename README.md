@@ -1,25 +1,27 @@
-# work
-hii
-[Link to Section 1](#section-1)
-[Link to Section 2](#section-2)
-[Link to Section 3](#section-3)
-[Link to Section 4](#section-4)
-[Link to Section 5](#section-5)
-[Link to Section 6](#section-6)
-## section 1
-hi this is tarun pratap
-## section 2
-hi this is srishti singhal
-## section 3
-scroll check
-## section 4
-scroll check 2
+# Table of Contents
 
-## section 5
-scroll check 3
-## section 6
-scroll check 4
-asdfghjk,mnbvcxzwert
-waesdfg
-asdfg
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
+## Introduction <a name="introduction"></a>
+
+This is the introduction section of your README.
+
+## Installation <a name="installation"></a>
+
+This is the installation section of your README.
+
+## Usage <a name="usage"></a>
+
+This is the usage section of your README.
+
+## Contributing <a name="contributing"></a>
+
+This is the contributing section of your README.
+
+## License <a name="license"></a>
+
+This is the license section of your README.
