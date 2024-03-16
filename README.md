@@ -7,7 +7,7 @@
 - [License](#license)
 - [Link to Section 1](#section-1)
 -[Link to Section 2](#section-2)
--[Link to Section 3](#section-3)
+-[Link to Section 3](#section-3) 
 -[Link to Section 4](#section-4)
 
 ## Introduction <a name="introduction"></a>
