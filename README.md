@@ -14,11 +14,11 @@
 
 This is the introduction section of your README.
 
-## Installation <a name="installation"></a>
+## Installation <a name="new"></a>
 
 This is the installation section of your README.
 
-## Usage <a name="usage"></a>
+## Usage <a name="new2"></a>
 
 This is the usage section of your README.
 
@@ -29,12 +29,12 @@ This is the contributing section of your README.
 ## License <a name="license"></a>
 ## section 1
 hi this is tarun pratap
-## section 2
+## section 2 <a name="license"></a>
 hi this is srishti singhal
 i will try controlling my khasi,i wll keep my throat moist
 and keep suain or strpcils always with me
 
-## section 3
+## section 3 <a name="license"></a>
 scroll check
 a
 b
